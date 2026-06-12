@@ -1,0 +1,32 @@
+2026-06-07 10:16:00,530 - INFO- Application Started
+2026-06-07 10:16:00,530 - ERROR- 
+ File Not Found : [Errno 2] No such file or directory: 'config/config.json'
+2026-06-07 10:26:54,913 - INFO- Application Started
+2026-06-07 10:26:54,914 - ERROR- 
+ File Not Found : [Errno 2] No such file or directory: 'config/config.json'
+2026-06-07 10:27:45,474 - INFO- Application Started
+2026-06-07 10:27:45,475 - ERROR- 
+ File Not Found : [Errno 2] No such file or directory: 'config/config.json'
+2026-06-07 10:28:46,347 - INFO- Application Started
+2026-06-07 10:28:46,347 - ERROR- 
+ File Not Found : [Errno 2] No such file or directory: 'config/config.json'
+2026-06-07 10:46:27,695 - INFO- Application Started
+2026-06-07 10:46:35,180 - INFO- User name  Jaga
+2026-06-07 10:47:20,556 - INFO- Speed  15.01Accuracy 100.00 wpm
+2026-06-07 10:47:20,556 - ERROR- TypingTest.__init__() missing 1 required positional argument: 'timeelpased'
+2026-06-07 10:48:29,423 - INFO- Application Started
+2026-06-07 10:48:32,911 - INFO- User name  Jaga
+2026-06-07 10:48:48,726 - INFO- Speed  26.32Accuracy 100.00 wpm
+2026-06-07 10:48:48,727 - ERROR- writer.writerow() takes exactly one argument (3 given)
+2026-06-07 10:51:09,256 - INFO- Application Started
+2026-06-07 10:51:14,531 - INFO- User name Jaga
+2026-06-07 10:51:33,794 - INFO- Speed  18.04Accuracy 100.00 wpm
+2026-06-07 10:51:33,795 - INFO- Report is Saved
+2026-06-07 10:51:33,795 - ERROR- sorted expected 1 argument, got 2
+2026-06-07 10:59:29,813 - INFO- Application Started
+2026-06-07 10:59:34,873 - INFO- User name Jaga
+2026-06-07 10:59:53,335 - INFO- Speed  21.16Accuracy 100.00 wpm
+2026-06-07 10:59:53,336 - INFO- Report is Saved
+2026-06-07 10:59:53,337 - INFO- Leader Board Displayed
+2026-06-07 10:59:53,337 - INFO- Application Ended
+2026-06-12 19:22:09,732 - INFO- Application Started

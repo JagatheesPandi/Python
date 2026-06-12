@@ -1,0 +1,5 @@
+{
+  "min_accuracy" : 70,
+  "max_sentence" : 5,
+  "report_file" : "reports/score_report.csv"
+}
